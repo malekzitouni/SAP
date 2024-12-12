@@ -1,6 +1,3 @@
-### **README: GPS Tracking Collar System**
-
----
 
 ## **Project Overview**
 
